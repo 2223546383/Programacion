@@ -1,2 +1,0 @@
-# Programacion
-Carpeta de programas
